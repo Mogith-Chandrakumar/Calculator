@@ -24,7 +24,3 @@ A simple yet powerful calculator built with **HTML**, **CSS**, and **vanilla Jav
 | JavaScript | Logic & interactivity    |
 
 ---
-
-
-[👉 Click here to try the calculator](https://your-live-demo-link.com)
-
